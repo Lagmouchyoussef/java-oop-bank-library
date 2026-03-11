@@ -1345,8 +1345,6 @@ SOFTWARE.
 | | |
 |:---|:---|
 | 👨‍💻 | **Youssef Lagmouch** |
-| 🎓 | Computer Science Student |
-| 🏫 | EMSI Morocco |
 | 📧 | yousseflagmouxch@gmail.com |
 | 🌍 | Morocco |
 
@@ -1378,3 +1376,4 @@ SOFTWARE.
 ⭐ **Status:** Completed
 
 </p>
+
